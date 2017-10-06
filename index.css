@@ -1,0 +1,40 @@
+
+table,
+th,
+td 
+{
+    border: 1px solid red;
+}
+
+body
+{
+    font-family: sans-serif, monospace, serif;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+div
+{
+    background-color: yellow;
+    padding: 0%;
+}
+
+.red
+{
+    color: red;
+}
+
+a
+{
+    color: black;
+}
+
+a:hover
+{
+    color: red;
+}
+
+p 
+{
+    text-align: justify;
+}
